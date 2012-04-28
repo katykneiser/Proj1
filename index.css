@@ -1,4 +1,7 @@
 #Header {
-	border:2px black solid;
-
+	border: 2px black solid;
+	width: 25%;
+	margin-left: auto;
+	text-align: center;
+	margin-right: auto;
 } 
