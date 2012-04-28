@@ -1,5 +1,10 @@
 function checkCheckBoxes() {
-	var M = document.getElementById("edit-md-options-06-2012-wrapper").setAttribute('checked','checked');
+	var M = document.getElementById("edit-md-options-06-2012-wrapper");
+
+	alert("whatss up");
+	
+	M.setAttribute('checked','checked');
+
 	/* var N = document.getElementById("edit-md-options-07-2012-wrapper").setAttribute("checked","checked");
 	var Q = document.getElementById("edit-md-options-08-2012-wrapper").setAttribute("checked","checked");
 	var U = document.getElementById("edit-md-options-09-2012-wrapper").setAttribute("checked","checked");	
