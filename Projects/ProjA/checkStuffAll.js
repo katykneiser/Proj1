@@ -3,7 +3,8 @@ function checkCheckBoxes() {
 
 	alert("whatss up");
 	
-	M.setAttribute('checked','checked');
+	//M.setAttribute('checked','checked');
+	M.innerHTML = "CHECK THIS OUT";
 
 	/* var N = document.getElementById("edit-md-options-07-2012-wrapper").setAttribute("checked","checked");
 	var Q = document.getElementById("edit-md-options-08-2012-wrapper").setAttribute("checked","checked");
