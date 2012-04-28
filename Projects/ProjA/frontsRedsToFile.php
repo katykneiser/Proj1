@@ -3,6 +3,7 @@
 <head>
 	<title>Katy Kneiser</title>
 	<link rel="stylesheet" href="index.css">
+	<script src="checkStuffAll.js" type="text/javascript"></script>
 </head>
 <body>
 <div id="Header"> 
@@ -36,5 +37,8 @@ fclose($fp);
 
 ?>
 
+<script type="text/javascript"> 
+	checkCheckBoxes();
+</script>
 </body>
 </html> 
